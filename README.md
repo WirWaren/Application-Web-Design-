@@ -16,4 +16,3 @@ Markdown es un lenguaje de marcado sencillo que sirve para agregar formato, vín
 
 # Tarea 1
 
-hola
